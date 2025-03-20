@@ -2,7 +2,6 @@
 
 2021年ごろに作成したVRChat用エアホッケーギミック<br>
 前提プラットフォームが古いため、当時のコード参照用にアップロード。<br>
-※アセット系要素は削除したため地面がありません。
 
 [VRC World：UDON Air hockey](https://vrchat.com/home/launch?worldId=wrld_436a1d3c-ea3b-48a0-a617-a65cb6f7ca3b)
 
